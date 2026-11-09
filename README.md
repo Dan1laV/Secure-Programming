@@ -16,3 +16,4 @@ The application will be controlled using the following terminal interface:
 1. Clone this repository
 2. Install the required cryptographic dependencies: pip install -r requirements.txt
 3. Execute the CLI entry point helper: python pm.py --help
+4. Run the automated security test suite: `python -m unittest test_pm.py`
